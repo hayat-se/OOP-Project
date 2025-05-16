@@ -76,7 +76,7 @@ int main()
     int ch;
     do
     {
-        cout<<"    -- User Menu -- \n\n";
+        cout<<"    --  -- \n\n";
         cout<<"1. Admin \n2. Passenger \n\n";
         cout<<"Enter your option : ";
         cin>>ch;
